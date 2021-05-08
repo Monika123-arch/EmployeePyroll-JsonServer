@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "name": "Sanika",
+      "profile": "\\assets\\profile-images\\Ellipse -1.png",
+      "gender": "Female",
+      "department": "HR,SALES",
+      "salary": "9000",
+      "startdate": "18/Nov/2020",
+      "id": 4
+    },
+    {
+      "name": "Monika",
+      "profile": "\\assets\\profile-images\\Ellipse -1.png",
+      "gender": "Female",
+      "department": "SALES",
+      "salary": "2000",
+      "startdate": "21/Jan/2020",
+      "id": 5
+    },
+    {
+      "name": "rutuja",
+      "profile": "\\assets\\profile-images\\Ellipse -1.png",
+      "gender": "Female",
+      "department": "SALES",
+      "salary": "2000",
+      "startdate": "18/Dec/2017",
+      "id": 7
+    },
+    {
+      "name": "XYZ",
+      "profile": "\\assets\\profile-images\\Ellipse -3.png",
+      "gender": "Male",
+      "department": "HR",
+      "salary": "3000",
+      "startdate": "19/Jan/2020",
+      "id": 8
+    },
+    {
+      "name": "Monika",
+      "profile": "\\assets\\profile-images\\Ellipse -1.png",
+      "gender": "Female",
+      "department": "SALES",
+      "salary": "1000",
+      "startdate": "21/Jan/2020",
+      "id": 10
+    }
+  ]
+}
